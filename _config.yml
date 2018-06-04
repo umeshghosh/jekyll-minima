@@ -2,7 +2,7 @@ theme: minima
 
 title: Umesh Ghoshdastider
 email: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "jekyll-minima" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: umeshghosh
 github_username:  umeshghosh
